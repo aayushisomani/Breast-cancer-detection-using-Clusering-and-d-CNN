@@ -14,3 +14,9 @@ cancernet.py: To implement the d-CNN model I have used the Keras deep learning l
 -Stacks multiple 3×3 CONV filters on top of each other prior to performing max-pooling (again, similar to VGGNet).
 
 -But unlike VGGNet, uses depthwise separable convolution rather than standard convolution layers.
+
+![image](https://github.com/asomani27/Breast-cancer-detection-using-Clusering-and-d-CNN/blob/master/intro.png)
+![image](https://github.com/asomani27/Breast-cancer-detection-using-Clusering-and-d-CNN/blob/master/preprocessing.png)
+![image](https://github.com/asomani27/Breast-cancer-detection-using-Clusering-and-d-CNN/blob/master/segmentation.png)
+![image](https://github.com/asomani27/Breast-cancer-detection-using-Clusering-and-d-CNN/blob/master/GLCM.png)
+![image](https://github.com/asomani27/Breast-cancer-detection-using-Clusering-and-d-CNN/blob/master/classification.png)
